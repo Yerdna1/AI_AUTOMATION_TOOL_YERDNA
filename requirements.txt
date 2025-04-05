@@ -1,0 +1,17 @@
+
+streamlit
+google-generativeai
+python-dotenv
+streamlit-ace
+streamlit-antd-components
+streamlit-option-menu
+opencv-python
+plotly
+transformers
+streamlit 
+streamlit-agraph 
+langchain-openai
+langgraph
+typing-extensions
+regex 
+langchain-core
